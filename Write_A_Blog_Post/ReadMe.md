@@ -16,13 +16,13 @@ As a Cricket fan, it would be quite interesting to apply data analysis skills he
 
 My key interests would be:
 
-Q1: What is the win percentage of a team batting second at Wankhede Stadium during 2008 to 2019? 
+  Q1: What is the win percentage of a team batting second at Wankhede Stadium during 2008 to 2019? 
 
-Q2: Which are the weekdays Kolkata Knight Riders wins the most?
+  Q2: Which are the weekdays Kolkata Knight Riders wins the most?
 
-Q3: Which is the best IPL team and how many times it had won in the past?  
+  Q3: Which is the best IPL team and how many times it had won in the past?  
 
-Q4: Predict the winner of the match by just using the matches dataset fields? - This is a classic binary classification problem
+  Q4: Predict the winner of the match by just using the matches dataset fields? - This is a classic binary classification problem
 
 
 ## File Descriptions
