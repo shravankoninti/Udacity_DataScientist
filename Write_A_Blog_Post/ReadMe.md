@@ -1,5 +1,5 @@
 ## Table of Contents
-- Installation [here](## Installation)
+- Installation
 - Project Motivation
 - File Description
 - Results
