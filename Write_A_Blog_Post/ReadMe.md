@@ -36,4 +36,4 @@ There is also a notebook available here to showcase all my work related to quest
 The main findings of the code can be found at the code output and blog post. The blog post is available [here](https://medium.com/@shravankoninti/ipl-cricket-data-analysis-6080bb7e9b52)
 
 Licensing, Authors, Acknowledgements
-Must give credit to Udacity courses for some of code ideas, and to kaggle/IPL for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity courses for some of code ideas, and to kaggle/IPL for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nowke9/ipldata). Otherwise, feel free to use the code here as you would like!
