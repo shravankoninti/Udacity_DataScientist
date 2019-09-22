@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-1. [Installation](##Installation)
-2. [Project Overview](##Project-Overview)
-3. [File Descriptions](##File-Descriptions)
-4. [Results](##Results)
-5. [Licensing, Authors, and Acknowledgements](##Licensing\, Authors\,-and-Acknowledgements)
-6. [Instructions](##Instructions)
+1. [Installation](#Installation)
+2. [Project Overview](#Project-Overview)
+3. [File Descriptions](#File-Descriptions)
+4. [Results](#Results)
+5. [Licensing, Authors, and Acknowledgements](#Licensing\, Authors\,-and-Acknowledgements)
+6. [Instructions](#Instructions)
 
 
 ## Installation
