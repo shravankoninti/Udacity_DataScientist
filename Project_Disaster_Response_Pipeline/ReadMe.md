@@ -37,6 +37,8 @@ Here are a few screenshots of the web app.
 
 <img width="945" alt="pre_2" src="https://user-images.githubusercontent.com/6191291/65388675-c782fb80-dd6b-11e9-965c-0860b5d5175f.PNG">
 
+<img width="947" alt="pre_3" src="https://user-images.githubusercontent.com/6191291/65388686-eda89b80-dd6b-11e9-92e0-ffffd8c0b5bb.PNG">
+
 
 
 
