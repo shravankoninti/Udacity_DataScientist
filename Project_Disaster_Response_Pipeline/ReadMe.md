@@ -8,7 +8,7 @@
 2. [Project Overview](#Project-Overview)
 3. [File Descriptions](#File-Descriptions)
 4. [Results](#Results)
-5. [Licensing, Authors, and Acknowledgements](#Licensing\, Authors\,-and-Acknowledgements)
+5. [Licensing Authors and Acknowledgements](#Licensing-Authors-and-Acknowledgements)
 6. [Instructions](#Instructions)
 
 
@@ -74,7 +74,7 @@ some of the screenshots of the results are shown below:
 
 <img width="945" alt="result-4" src="https://user-images.githubusercontent.com/6191291/65392415-54d94680-dd92-11e9-8531-a755d29de9b2.PNG">
 
-## Licensing, Authors, Acknowledgements
+## Licensing Authors and Acknowledgements
 Udacity has provided starter codes and FigureEight has provided the disaster messages data for analysis. 
 Please refer to Udacity Terms of Service for further information.
 
