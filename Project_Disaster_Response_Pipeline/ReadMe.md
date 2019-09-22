@@ -10,3 +10,5 @@
 4. Results
 5. Licensing, Authors, and Acknowledgements
 6. Instructions
+
+[Installation](.#Installation)
