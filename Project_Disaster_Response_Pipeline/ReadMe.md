@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-1. [Installation](.##Installation)
-2. [Project Overview](.##Project Overview)
-3. [File Descriptions](.##File Descriptions)
-4. [Results](.##Results)
-5. [Licensing, Authors, and Acknowledgements](.##Licensing, Authors, and Acknowledgements)
-6. [Instructions](.##Instructions)
+1. [Installation](##Installation)
+2. [Project Overview](##Project-Overview)
+3. [File Descriptions](##File-Descriptions)
+4. [Results](##Results)
+5. [Licensing, Authors, and Acknowledgements](##Licensing\, Authors\,-and-Acknowledgements)
+6. [Instructions](##Instructions)
 
 
 ## Installation
@@ -43,15 +43,15 @@ Here are a few screenshots of the web app.
 
 There are three main folders:
 
-### data
+### *data*
 disaster_categories.csv: dataset including all the categories
 disaster_messages.csv: dataset including all the messages
 process_data.py: ETL pipeline scripts to read, clean, and save data into a database
 DisasterResponse.db: output of the ETL pipeline, i.e. SQLite database containing messages and categories data
-### models
+### *models*
 train_classifier.py: machine learning pipeline scripts to train and export a classifier
 classifier.pkl: output of the machine learning pipeline, i.e. a trained classifer
-### app
+### *app*
 run.py: Flask file to run the web application
 templates contains html file for the web application
 
@@ -87,9 +87,3 @@ Please refer to Udacity Terms of Service for further information.
 2. Run the following command in the app's directory to run your web app. python run.py
 
 3. Go to http://0.0.0.0:3001/
-
-
-
-
-
-
