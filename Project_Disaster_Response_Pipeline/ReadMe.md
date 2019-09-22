@@ -33,6 +33,11 @@ This project will include a web app where an emergency worker can input a new me
 
 Here are a few screenshots of the web app.
 
+<img width="940" alt="pre_1" src="https://user-images.githubusercontent.com/6191291/65388669-af12e100-dd6b-11e9-942b-0356055479c0.PNG">
+
+<img width="945" alt="pre_2" src="https://user-images.githubusercontent.com/6191291/65388675-c782fb80-dd6b-11e9-965c-0860b5d5175f.PNG">
+
+
 
 
 
