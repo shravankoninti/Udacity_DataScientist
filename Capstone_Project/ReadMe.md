@@ -1,3 +1,8 @@
+# Churn Prediction for music app - Sparkify
+This project uses SparkML to predict user churn based on a 12GB dataset using a fictitious music service app, "Spartify". For the complete analysis - please check out my [blog] (https://medium.com/@shravankoninti/ipl-cricket-data-analysis-6080bb7e9b52) post for more details!
+
+
+
 ## Table of Contents
 - Installation
 - Project Motivation
@@ -7,33 +12,25 @@
 
 
 ## Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.
+The platform should also include all dependecies for running spark ML algorithms and data exploration functions.The code should run with no issues using Python versions 3.*. 
+
 
 ## Project Motivation
-This is an Udacity Nanodegree project. I chose IPL 2006 to 2019 complete match dataset.
+This is an Udacity Nanodegree Capstone project. Losing customers (churn) is an important business problem for any industry. If the organization is being able to predict churn can help a company to prioritize retention program on customers who are most likely to churn, taking actions even before a churn happens.
 
-As a Cricket fan, it would be quite interesting to apply data analysis skills here.
-
-My key interests would be:
-
-  - Q1: What is the win percentage of a team batting second at Wankhede Stadium during 2008 to 2019? 
-
-  - Q2: Which are the weekdays Kolkata Knight Riders wins the most?
-
-  - Q3: Which is the best IPL team and how many times it had won in the past?  
-
-  - Q4: Predict the winner of the match by just using the matches dataset fields? - This is a classic binary classification problem
+In this project, I used Spark ML programming to analyze user log activity dataset and build a machine learning model to identify users who are most likely to churn from the Sparkify App.
 
 
 ## File Descriptions
-**Deliveries** — Contains information about the match details at ball by ball. Some of the variables are over, ball, batsman, non_striker, bowler, is_super_over, wide_runs etc..,
+**User activity dataset** — 
+The dataset logs user demographic information (e.g. user name, gender etc.,) and activity (e.g. song listened, event type, device.thumbs up, thumb down, downgrade done etc.,) at individual timestamps.
 
-**Matches** — Contains information about the match details like date, team1, team2, toss_winner, toss_decision, winner etc.,
-
-There is also a notebook available here to showcase all my work related to questions I posted above.
+A small subset (~120MB) of the full dataset was used for exploratory data analysis and machine learning model development.
 
 ## Results
 The main findings of the code can be found at the code output and blog post. The blog post is available [here](https://medium.com/@shravankoninti/ipl-cricket-data-analysis-6080bb7e9b52)
 
 Licensing, Authors, Acknowledgements
-Must give credit to Udacity courses for some of code ideas, and to kaggle/IPL for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nowke9/ipldata). Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity courses for some of code ideas. 
+
