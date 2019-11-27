@@ -1,5 +1,5 @@
 # Churn Prediction for music app - Sparkify
-This project uses SparkML to predict user churn based on a 12GB dataset using a fictitious music service app, "Spartify". For the complete analysis - please check out my blog post for more details!
+This project uses SparkML to predict user churn based on a 12GB dataset using a fictitious music service app, "Sparkify". For the complete analysis - please check out my blog post for more details!
 
 
 
