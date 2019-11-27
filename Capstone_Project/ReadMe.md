@@ -16,12 +16,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 The platform should also include all dependecies for running spark ML algorithms and data exploration functions.The code should run with no issues using Python versions 3.*. 
 These are the basic packages used:
 
-Python
-Spark
-Pyspark
-pandas
-Matplotlib
-Seaborn
+* Python
+* Spark
+* Pyspark
+* pandas
+* Matplotlib
+* Seaborn
 
 
 ## Project Motivation
